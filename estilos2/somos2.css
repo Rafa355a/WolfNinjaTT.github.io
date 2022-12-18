@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+#caja1{
+    background-color: #73ABF5;
+    padding: 40px;
+}
+#logoinicio{
+    width: 40px;
+    height: 40px;
+} 
+#tit{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 900;
+    color: #006BF8
+}
+#calculadora{
+    color: red;
+}
+  
